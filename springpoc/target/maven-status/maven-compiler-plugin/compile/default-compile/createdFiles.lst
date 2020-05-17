@@ -1,0 +1,7 @@
+com\agilisium\example\controller\LoginController.class
+com\agilisium\service\ProductService.class
+com\agilisium\example\controller\WebController.class
+com\agilisium\repository\ProductRepository.class
+com\agilisium\security\SecurityConfiguration.class
+com\agilisium\enity\Product.class
+com\agilisium\example\SpringpocApplication.class
